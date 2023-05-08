@@ -1,0 +1,2 @@
+# myBase
+Tests, projects, ideas
